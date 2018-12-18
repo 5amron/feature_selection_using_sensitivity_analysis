@@ -1,3 +1,6 @@
-# feature_selection_using_sensitivity_analysis
+# Feature Aelection using Sensitivity Analysis
 
 Excluding irrelevant features in a pattern recognition task plays an important role in maintaining a simpler machine learning model and optimizing the computational efficiency. Nowadays with the rise of large scale datasets, feature selection is in great demand as it becomes a central issue when facing high-dimensional datasets. The present study provides a new measure of saliency for features by employing a Sensitivity Analysis (SA) technique called the extended Fourier amplitude sensitivity test, and a well-trained Feedforward Neural Network (FNN) model, which ultimately leads to the selection of a promising optimal feature subset. Ideas of the paper are mainly demonstrated based on adopting FNN model for feature selection in classification problems. But in the end, a generalization framework is discussed in order to give insights into the usage in regression problems as well as expressing how other function approximate models can be deployed. Effectiveness of the proposed method is verified by result analysis and data visualization for a series of experiments over several well-known datasets drawn from UCI machine learning repository.
+
+Paper: https://arxiv.org/abs/1804.05092
+
